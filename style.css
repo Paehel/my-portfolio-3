@@ -1,0 +1,41 @@
+   
+  h1{
+    color:#FFF123;
+   font-weight: lighter;
+}
+
+a{
+    color:#FFF123;
+    transition: color .3s linear 1s;
+}
+
+.Header{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    background-image: url("youtube.png");
+}
+
+.Games{
+    background-color: cornsilk;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-shrink: 4;
+    color: crimson;
+}
+
+.Footer{
+    background-color: darkgrey;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+h2, p {
+    text-align: center;
+  font-size: 30px;
+  font-family: cursive; 
+}
+
